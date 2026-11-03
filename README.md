@@ -47,7 +47,7 @@ I make production systems **fast, observable and predictable under load** - and 
       <b><a href="https://apps.apple.com/us/app/ember-smoke-less/id6810363404">Ember: Smoke Less</a></b> &nbsp;·&nbsp; iOS &nbsp;·&nbsp; live on the App Store<br/>
       Cigarette tracker for cutting down gradually: one-tap logging, trends, widgets and Siri.<br/>
       <sub>SwiftUI · SwiftData · Swift Charts · WidgetKit · App Intents · RealityKit</sub><br/><br/>
-      <a href="https://apps.apple.com/us/app/ember-smoke-less/id6810363404"><img src="https://tools.applemarketingtools.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" height="40" alt="Download on the App Store" /></a>
+      <a href="https://apps.apple.com/us/app/ember-smoke-less/id6810363404"><img src="https://img.shields.io/badge/Download_on_the-App_Store-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" alt="Download on the App Store" /></a>
     </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ I make production systems **fast, observable and predictable under load** - and 
   <img src="https://streak-stats.demolab.com?user=1ntr0men&hide_border=true&border_radius=10&background=0D1117&stroke=30363D&ring=FF7A1A&fire=FF7A1A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF7A1A&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1ntr0men&bg_color=0D1117&color=8B949E&line=FF7A1A&point=FFFFFF&area=true&area_color=FF7A1A&hide_border=true&radius=10&custom_title=Contribution%20activity&title_color=FFFFFF" width="100%" alt="Contribution activity graph" />
+<img src="https://raw.githubusercontent.com/1ntr0men/1ntr0men/output/activity.svg" width="100%" alt="Contribution activity, last 12 months" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1ntr0men/1ntr0men/output/github-snake-dark.svg" />
