@@ -27,9 +27,9 @@ I make production systems **fast, observable and predictable under load** - and 
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes,docker,linux,prometheus,grafana,jenkins,git,swift,java,py,js,bash&theme=dark&perline=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kubernetes,docker,linux,prometheus,grafana,jenkins,git,swift,java,py,js,bash&theme=light&perline=12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,linux,prometheus,grafana,jenkins,git,swift,java,py,js,bash&theme=dark&perline=12" alt="Kubernetes, Docker, Linux, Prometheus, Grafana, Jenkins, Git, Swift, Java, Python, JavaScript, Bash" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kubernetes%2Cdocker%2Clinux%2Cprometheus%2Cgrafana%2Cjenkins%2Cgit%2Cswift%2Cjava%2Cpy%2Cjs%2Cbash&theme=dark&perline=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kubernetes%2Cdocker%2Clinux%2Cprometheus%2Cgrafana%2Cjenkins%2Cgit%2Cswift%2Cjava%2Cpy%2Cjs%2Cbash&theme=light&perline=12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes%2Cdocker%2Clinux%2Cprometheus%2Cgrafana%2Cjenkins%2Cgit%2Cswift%2Cjava%2Cpy%2Cjs%2Cbash&theme=dark&perline=12" alt="Kubernetes, Docker, Linux, Prometheus, Grafana, Jenkins, Git, Swift, Java, Python, JavaScript, Bash" />
 </picture>
 </p>
 
