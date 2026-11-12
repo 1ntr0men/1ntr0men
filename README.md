@@ -53,16 +53,12 @@ I make production systems **fast, observable and predictable under load** - and 
   </tr>
   <tr>
     <td width="132" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1ntr0men/1ntr0men/output/tape-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1ntr0men/1ntr0men/output/tape-light.svg" />
-        <img src="https://raw.githubusercontent.com/1ntr0men/1ntr0men/output/tape-dark.svg" width="96" alt="Tape for macOS, coming soon" />
-      </picture>
+      <img src="assets/tape-icon.png" width="96" alt="Tape icon" />
     </td>
     <td>
-      <b>Tape: Market Ticker</b> &nbsp;·&nbsp; macOS &nbsp;·&nbsp; in development<br/>
-      Lightweight menu bar ticker and widgets: crypto, Moscow Exchange, US stocks, FX, commodities.<br/>
-      <sub>Swift · SwiftUI · WidgetKit</sub>
+      <b>Tape</b> &nbsp;·&nbsp; macOS &nbsp;·&nbsp; in development<br/>
+      Portfolio analytics across Russian brokers (T-Bank, BCS, Finam, ALOR, Alfa): real return vs. deposits and inflation, dividends and coupons, taxes, risk. Read-only, data stays on the Mac. Menu bar ticker and widgets included.<br/>
+      <sub>SwiftUI · Swift Charts · WidgetKit · App Intents · Sparkle</sub>
     </td>
   </tr>
 </table>
