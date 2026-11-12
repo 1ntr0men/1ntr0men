@@ -4,7 +4,6 @@
   hero-{theme}.svg       name, role, impact numbers, load-test motif
   activity-{theme}.svg   contributions: streak numbers, weekly totals and the
                          familiar green calendar, all on one week axis
-  tape-{theme}.svg       placeholder tile for the macOS app in development
   appstore-{theme}.svg   "View on the App Store" pill
 
 No animation anywhere: the README should read like a calm dashboard.
@@ -310,20 +309,6 @@ def activity(c, s):
 
 # ---------- small tiles ----------
 
-def tape(c):
-    W = H = 120
-    out = [f'<rect x="1" y="1" width="118" height="118" rx="27" fill="{c["tile"]}" stroke="{c["border"]}" stroke-width="1.5" stroke-dasharray="4 4"/>']
-    rnd = random.Random(5)
-    ys, y = [], 64.0
-    for _ in range(16):
-        y += rnd.uniform(-5, 4.2)
-        ys.append(min(78, max(40, y)))
-    pts = [(24 + i * 72 / 15, v) for i, v in enumerate(ys)]
-    out.append(f'<path d="{monotone_path(pts)}" fill="none" stroke="{c["accent"]}" stroke-width="2.5" stroke-linecap="round"/>')
-    out.append(text(60, 98, "soon", 12, c["muted"], MONO, 500, anchor="middle", spacing=1))
-    return svg(W, H, "Tape for macOS, coming soon", "\n".join(out))
-
-
 def appstore(c):
     W, H = 196, 40
     out = [f'<rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="8" fill="{c["tile"]}" stroke="{c["border"]}"/>']
@@ -350,7 +335,7 @@ def main():
     for name, c in THEMES.items():
         for base, content in (
             ("hero", hero(c)), ("activity", activity(c, s)),
-            ("tape", tape(c)), ("appstore", appstore(c)),
+            ("appstore", appstore(c)),
         ):
             with open(os.path.join(outdir, f"{base}-{name}.svg"), "w", encoding="utf-8") as f:
                 f.write(content)
