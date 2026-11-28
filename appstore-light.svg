@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="196" height="40" viewBox="0 0 196 40" role="img" aria-label="View on the App Store">
+<title>View on the App Store</title>
+<rect x="0.5" y="0.5" width="195" height="39" rx="8" fill="#F6F8FA" stroke="#D0D7DE"/>
+<text x="16.0" y="25.0" fill="#1F2328" font-size="13" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" text-anchor="start">View on the App Store</text>
+<path d="M172 15 h9 v9 M181 15 l-10 10" fill="none" stroke="#E8590C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
